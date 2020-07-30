@@ -1,7 +1,5 @@
 # Segment-Optimize-Dynamic-Pricing-Model
 
-Master Thesis
-
 1. Research Questions
 
 2. Methodology
