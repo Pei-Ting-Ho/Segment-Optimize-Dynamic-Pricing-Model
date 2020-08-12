@@ -3,7 +3,7 @@
 ## Research Question
 
 - How does the ***product price*** influence its ***demand level***, in the contingency perspective of ***product category*** and ***customer segment***?
-- To what extent does the more precise customer segmentation method improve the ***price*** offered, and thus the ***profit*** earned?
+- To what extent does the more precise segmentation method improve the ***price*** offered, and thus the ***profit*** earned?
 
 ## Methodology
 
