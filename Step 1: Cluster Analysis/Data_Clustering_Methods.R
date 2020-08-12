@@ -243,7 +243,8 @@ library(janitor)
                                     ~ kmeans_k_4(.x)$cluster)
       set.seed(70)
       kmeans_prod_cluster <- map_if(kmeans_prod_cluster,
-                                    (names(kmeans_prod_cluster) != "Electronic accessories") & (names(kmeans_prod_cluster) != "Home and lifestyle"),
+                                    (names(kmeans_prod_cluster) != "Electronic accessories") & 
+                                    (names(kmeans_prod_cluster) != "Home and lifestyle"),
                                     ~ kmeans_k_3(.x)$cluster)
       list_prod_data_kmeans_clustered <- map2(list_prod_data, 
                                               kmeans_prod_cluster, 
