@@ -1,17 +1,18 @@
 # Segment-Optimize-Dynamic-Pricing-Model
 
-1. Research Questions
+## Research Question
 
-2. Methodology
+- How does the ***product price*** influence its ***demand level***, in the contingency perspective of ***product category*** and ***customer segment***?
+- To what extent does the more precise customer segmentation method improve the ***price*** offered, and thus the ***profit*** earned?
 
-    2.1 Perform the customer segmentation using the cluster analysis
-    - The clustering methods 
-    - The clustering performances
+## Methodology
 
-    2.2 Develop the pricing model using the regression analysis
-    - The cross-validation approaches 
-    - The predictive-modeling result
+Step 1: Perform the customer segmentation using the cluster analysis
+- The clustering method
+- The clustering performance
 
-3. Concluding Remarks
+Step 2: Develop the pricing model using the regression analysis
+- The cross-validation approach
+- The predictive-modeling result
 
 
